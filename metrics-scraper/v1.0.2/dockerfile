@@ -1,2 +1,2 @@
-From   metrics.k8s.io/v1beta1
+From   registry.cn-hongkong.aliyuncs.com/misaka/metrics-server:latest
 MAINTAINER taxuexunmei <467749474@qq.com>

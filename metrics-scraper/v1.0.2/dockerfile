@@ -1,2 +1,2 @@
-From   kubernetesui/metrics-scraper:v1.0.2
+From   registry.cn-hongkong.aliyuncs.com/misaka/metrics-server:latest
 MAINTAINER taxuexunmei <467749474@qq.com>

@@ -1,2 +1,2 @@
-From    https://k8s.gcr.io/v2/
+From    gcr.io/google_containers/kubelet:v1.17.0
 MAINTAINER taxuexunmei <467749474@qq.com>

@@ -1,2 +1,2 @@
-From   k8s.gcr.io/kube-apiserver:v1.15.1
+From   k8s.gcr.io/kube-apiserver:v1.19.4
 MAINTAINER taxuexunmei <467749474@qq.com>

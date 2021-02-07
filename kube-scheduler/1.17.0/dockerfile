@@ -1,2 +1,2 @@
-From   k8s.gcr.io/kube-scheduler:v1.20.2
+From   k8s.gcr.io/kube-scheduler:v1.15.1
 MAINTAINER taxuexunmei <467749474@qq.com>

@@ -1,6 +1,2 @@
 From   gcr.io/k8s-minikube/storage-provisioner:v4
-<<<<<<< HEAD
 MAINTAINER taxuexunmei <467749474@qq.com>
-=======
-MAINTAINER taxuexunmei <467749474@qq.com>
->>>>>>> 0a825e575edd2f552868fcef8fa077bd57f56cd7

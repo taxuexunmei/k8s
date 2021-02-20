@@ -1,2 +1,2 @@
-From    k8s.gcr.io/metrics-scraper:v1.0.3
+From    k8s.gcr.io/metrics-scraper:v1.0.2
 MAINTAINER taxuexunmei <467749474@qq.com>

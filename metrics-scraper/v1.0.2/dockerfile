@@ -1,2 +1,2 @@
-From   registry.cn-hongkong.aliyuncs.com/misaka/metrics-server:latest
+From    k8s.gcr.io/metrics-scraper:v1.0.4
 MAINTAINER taxuexunmei <467749474@qq.com>

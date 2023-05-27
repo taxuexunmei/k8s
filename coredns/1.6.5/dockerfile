@@ -1,4 +1,4 @@
-From   gcr.io/k8s-minikube/kicbase:v0.0.39
+From   k8s.gcr.io/k8s-minikube/kicbase:v0.0.39
 MAINTAINER taxuexunmei <467749474@qq.com>
 
 

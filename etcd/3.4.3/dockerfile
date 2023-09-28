@@ -1,2 +1,2 @@
-From   k8s.gcr.io/etcd:3.3.10
+From   k8s.gcr.io/etcd:3.5.3-0
 MAINTAINER taxuexunmei <467749474@qq.com>

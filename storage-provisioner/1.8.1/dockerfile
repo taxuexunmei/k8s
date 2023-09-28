@@ -1,2 +1,2 @@
-From   gcr.io/k8s-minikube/storage-provisioner:v4
+From   gcr.io/k8s-minikube/storage-provisioner:v5
 MAINTAINER taxuexunmei <467749474@qq.com>

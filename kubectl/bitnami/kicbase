@@ -1,2 +1,2 @@
-From   docker.io/kicbase/stable:v0.0.34
+From   docker.io/kicbase/stable:v0.0.34@sha256:f2a1e577e43fd6769f35cdb938f6d21c3dacfd763062d119cade738fa244720c
 MAINTAINER taxuexunmei <467749474@qq.com

@@ -1,0 +1,2 @@
+From   docker.io/calico/kube-controllers:v3.26.4
+MAINTAINER taxuexunmei <467749474@qq.com>

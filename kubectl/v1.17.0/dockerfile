@@ -1,2 +1,2 @@
-FROM kubevirt/registry-disk-v1alpha
+FROM docker.io/bitnami/kubectl:1.31.0
 MAINTAINER taxuexunmei <467749474@qq.com>

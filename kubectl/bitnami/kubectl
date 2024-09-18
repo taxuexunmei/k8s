@@ -1,2 +1,2 @@
-From   bitnami/kubectl:1.24.7
+From   bitnami/kubectl:1.31.0
 MAINTAINER taxuexunmei <467749474@qq.com>

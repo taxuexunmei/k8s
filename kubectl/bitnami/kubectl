@@ -1,2 +1,2 @@
-From   bitnami/kubectl:1.31.0
+From  docker.io/bitnami/kubectl:1.31.0
 MAINTAINER taxuexunmei <467749474@qq.com>
